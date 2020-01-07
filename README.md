@@ -1,1 +1,1 @@
-the touch of the scoreboard its ["L"] = 0x80F28E95 :wink:
+@Shagwrath Copy paste your scoreboard in the file [system] ensure scoreboard in your config.Cfg keep the L key on your keyboard to see your ID. 
