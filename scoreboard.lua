@@ -11,7 +11,7 @@ Citizen.CreateThread(function()
                 ptable = GetPlayers()
                 for _, i in ipairs(ptable) do
                     local wantedLevel = GetPlayerWantedLevel(i)
-                    r, g, b = UsePlayerColourInsteadOfTeamColour(i)
+                    r, g, b = GetPlayers(i)
                     table.insert(players, 
                     '<tr style="color: rgb(255, 255, 255); font-weight: 500;"><td>' .. GetPlayerServerId(i) .. '</td><td>' ..GetPlayerName(i)..'</td></tr>'
                     )
