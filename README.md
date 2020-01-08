@@ -1,1 +1,2 @@
-Copy paste your scoreboard in the file [system] ensure scoreboard in your config.Cfg keep the L key on your keyboard to see your ID. 
+# scoreboard RedM
+ Copiez collez votre tableau de bord dans le fichier [système] assurez-vous tableau de bord dans votre config.Cfg garder la touche L sur votre clavier pour voir votre ID.
